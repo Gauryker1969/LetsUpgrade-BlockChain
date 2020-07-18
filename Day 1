@@ -1,0 +1,26 @@
+Blockchain Assignment 1
+
+1. What is your understanding of Blockchain?
+
+In blockchain, the information or transactions are recorded in such a way that it is impossible to hack, change or cheat the system. It is a distributed database and cryptography which stores transactional records in a network connected through peer to peer nodes.
+
+2. What are the core problems blockchain trying to solve?
+
+The problems which blockchain tries to solve are:
+i) Unsecurity of the data: blockchain uses data encryption (cryptography) to reduce the risk of security breach
+ii) Manipulation of data: Blockchain ensures that the information is decentralized and the concerned database is published by the public rather than a central body or a third party.
+iii) Identity theft: Digital identity offers safety and modularity to the person’s identity
+
+3. What are the few features which Blockchain will give you?
+
+The features which Blockchain would give us are:
+i) The blockchain will ensure enhanced security and improved traceability as they information is encrypted and safely recorded.
+ii) It would increase efficiency and speed as the system is decentralized and does not involve any third party interference
+
+4. What all things does a Block contain?
+
+A block in the blockchain contains its block number, transaction record, previous block signature and mining key
+
+5. How is the verifiability of blockchain is been attained?
+
+The verifiability of blockchain can be attained by the peer-to-peer network. In its system, the ledger is replicated in a large number of identical databases, each hosted and maintained by an interested party. When changes are entered in one copy, all other copies are simultaneously updated. So as transactions occur, records of the value and assets exchanged are permanently entered in all the ledgers.
